@@ -4,6 +4,6 @@
 
 ### [Лабораторная №5](https://github.com/fkifa/laboratory/tree/develop/2020-2021/OS/lab05)
 
-###[Лабораторная №6](https://github.com/fkifa/laboratory/tree/develop/2020-2021/OS/lab06)
+### [Лабораторная №6](https://github.com/fkifa/laboratory/tree/develop/2020-2021/OS/lab06)
 
 

@@ -2,6 +2,8 @@
 
 ***тут можно перейти в нужную папку без головной боли)***
 
+## [Лабораторная №15](https://github.com/fkifa/laboratory/tree/main/2020-2021/OS/lab15)
+
 ## [Лабораторная №14](https://github.com/fkifa/laboratory/tree/main/2020-2021/OS/lab14)
 
 ## [Лабораторная №13](https://github.com/fkifa/laboratory/tree/main/2020-2021/OS/lab13)
